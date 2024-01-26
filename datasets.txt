@@ -1,4 +1,0 @@
-https://www.kaggle.com/datasets/brjapon/gearbox-fault-diagnosis
-https://www.kaggle.com/datasets/alenavorushilova/industrial-production-index-in-usa?resource=download
-https://www.kaggle.com/datasets/hieudaotrung/gear-vibration
-https://www.kaggle.com/datasets/parvmodi/automotive-vehicles-engine-health-dataset

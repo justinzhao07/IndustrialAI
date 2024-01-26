@@ -1,0 +1,15 @@
+https://www.kaggle.com/datasets/brjapon/gearbox-fault-diagnosis
+https://www.kaggle.com/datasets/alenavorushilova/industrial-production-index-in-usa?resource=download
+https://www.kaggle.com/datasets/hieudaotrung/gear-vibration
+https://www.kaggle.com/datasets/parvmodi/automotive-vehicles-engine-health-dataset
+https://catalog.data.gov/dataset/fuel-economy-label-and-cafe-data-inventory
+https://www.kaggle.com/datasets/ravirajsinh45/real-life-industrial-dataset-of-casting-product
+https://www.kaggle.com/datasets/behrad3d/nasa-cmaps
+https://www.kaggle.com/datasets/shasun/tool-wear-detection-in-cnc-mill/data
+https://www.kaggle.com/datasets/paresh2047/uci-semcom/data
+https://www.kaggle.com/datasets/inIT-OWL/one-year-industrial-component-degradation
+https://www.kaggle.com/datasets/uysalserkan/fault-induction-motor-dataset
+https://www.kaggle.com/datasets/arbazkhan971/anomaly-detection
+https://www.kaggle.com/datasets/jishnukoliyadan/vibration-analysis-on-rotating-shaft
+https://www.kaggle.com/datasets/wkirgsn/electric-motor-temperature
+https://www.kaggle.com/datasets/robikscube/hourly-energy-consumption
