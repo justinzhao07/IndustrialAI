@@ -43,4 +43,5 @@ https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction 10.00 <br>
 https://www.kaggle.com/datasets/fedesoriano/air-quality-data-set 10.00 <br>
 https://www.kaggle.com/datasets/abhisheksjha/time-series-air-quality-data-of-india-2010-2023 10.00 <br>
 
-
+## Misc
+https://github.com/awesomedata/apd-core/tree/master/core
