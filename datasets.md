@@ -14,6 +14,7 @@ https://www.kaggle.com/datasets/wkirgsn/electric-motor-temperature 10.00 <br>
 https://www.kaggle.com/datasets/yidazhang07/bridge-cracks-image 8.13 <br>
 https://www.kaggle.com/datasets/ravirajsinh45/real-life-industrial-dataset-of-casting-product 8.75 <br>
 https://www.kaggle.com/datasets/inIT-OWL/high-storage-system-data-for-energy-optimization 8.82 <br>
+https://www.kaggle.com/datasets/thomasdubail/screwanomalies-detection/data 10.00 <br>
 
 ## Transportation
 
@@ -43,5 +44,3 @@ https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction 10.00 <br>
 https://www.kaggle.com/datasets/fedesoriano/air-quality-data-set 10.00 <br>
 https://www.kaggle.com/datasets/abhisheksjha/time-series-air-quality-data-of-india-2010-2023 10.00 <br>
 
-## Misc
-https://github.com/awesomedata/apd-core/tree/master/core
