@@ -15,6 +15,7 @@ https://www.kaggle.com/datasets/yidazhang07/bridge-cracks-image 8.13 <br>
 https://www.kaggle.com/datasets/ravirajsinh45/real-life-industrial-dataset-of-casting-product 8.75 <br>
 https://www.kaggle.com/datasets/inIT-OWL/high-storage-system-data-for-energy-optimization 8.82 <br>
 https://www.kaggle.com/datasets/thomasdubail/screwanomalies-detection/data 10.00 <br>
+https://www.kaggle.com/datasets/vinayakshanawad/cement-manufacturing-concrete-dataset 8.82 <br>
 
 ## Transportation
 
