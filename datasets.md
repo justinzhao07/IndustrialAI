@@ -16,6 +16,7 @@ https://www.kaggle.com/datasets/ravirajsinh45/real-life-industrial-dataset-of-ca
 https://www.kaggle.com/datasets/inIT-OWL/high-storage-system-data-for-energy-optimization 8.82 <br>
 https://www.kaggle.com/datasets/thomasdubail/screwanomalies-detection/data 10.00 <br>
 https://www.kaggle.com/datasets/vinayakshanawad/cement-manufacturing-concrete-dataset 8.82 <br>
+https://www.kaggle.com/datasets/brjapon/cwru-bearing-datasets 6.47 <br>
 
 ## Transportation
 
