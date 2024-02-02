@@ -18,9 +18,14 @@ https://www.kaggle.com/datasets/thomasdubail/screwanomalies-detection/data 10.00
 https://www.kaggle.com/datasets/vinayakshanawad/cement-manufacturing-concrete-dataset 8.82 <br>
 https://www.kaggle.com/datasets/brjapon/cwru-bearing-datasets 6.47 <br>
 
+## Semiconductors
+
+https://www.kaggle.com/datasets/paresh2047/uci-semcom/data 7.06 <br>
+https://www.kaggle.com/datasets/arbazkhan971/anomaly-detection 7.06 <br>
+
 ## Transportation
 
-https://catalog.data.gov/dataset/crash-reporting-drivers-data
+https://catalog.data.gov/dataset/crash-reporting-drivers-data <br>
 https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents 10.00 <br>
 https://www.kaggle.com/datasets/usdot/flight-delays 8.82 <br>
 https://www.kaggle.com/datasets/saurograndi/airplane-crashes-since-1908 10.00 <br>
@@ -32,11 +37,6 @@ https://www.kaggle.com/datasets/robikscube/hourly-energy-consumption 10.00 <br>
 https://www.kaggle.com/datasets/theforcecoder/wind-power-forecasting/data 9.12 <br>
 https://www.kaggle.com/datasets/mubashirrahim/wind-power-generation-data-forecasting 10.00 <br>
 https://www.kaggle.com/datasets/berkerisen/wind-turbine-scada-dataset 5.88 <br>
-
-## Semiconductors
-
-https://www.kaggle.com/datasets/paresh2047/uci-semcom/data 7.06 <br>
-https://www.kaggle.com/datasets/arbazkhan971/anomaly-detection 7.06 <br>
 
 ## Healthcare
 
