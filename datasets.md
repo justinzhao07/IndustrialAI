@@ -17,6 +17,10 @@ https://www.kaggle.com/datasets/inIT-OWL/high-storage-system-data-for-energy-opt
 https://www.kaggle.com/datasets/thomasdubail/screwanomalies-detection/data 10.00 <br>
 https://www.kaggle.com/datasets/vinayakshanawad/cement-manufacturing-concrete-dataset 8.82 <br>
 https://www.kaggle.com/datasets/brjapon/cwru-bearing-datasets 6.47 <br>
+https://www.kaggle.com/datasets/edumagalhaes/quality-prediction-in-a-mining-process 10.00 <br>
+https://www.kaggle.com/datasets/stephanmatzka/predictive-maintenance-dataset-ai4i-2020 8.24 <br>
+https://www.kaggle.com/datasets/uysalserkan/fault-induction-motor-dataset/data 8.75 <br>
+https://www.kaggle.com/datasets/adorigueto/cnc-turning-roughness-forces-and-tool-wear 10.00 <br>
 
 ## Semiconductors
 
@@ -36,7 +40,7 @@ https://catalog.data.gov/dataset/fuel-economy-label-and-cafe-data-inventory <br>
 https://www.kaggle.com/datasets/robikscube/hourly-energy-consumption 10.00 <br>
 https://www.kaggle.com/datasets/theforcecoder/wind-power-forecasting/data 9.12 <br>
 https://www.kaggle.com/datasets/mubashirrahim/wind-power-generation-data-forecasting 10.00 <br>
-https://www.kaggle.com/datasets/berkerisen/wind-turbine-scada-dataset 5.88 <br>
+https://www.kaggle.com/datasets/iambee/solar-currentsensor-ldr-data 10.00 <br>
 
 ## Healthcare
 
@@ -46,3 +50,5 @@ https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction 10.00 <br>
 https://www.kaggle.com/datasets/fedesoriano/air-quality-data-set 10.00 <br>
 https://www.kaggle.com/datasets/abhisheksjha/time-series-air-quality-data-of-india-2010-2023 10.00 <br>
 
+## Misc
+https://www.kaggle.com/datasets/emilblixthansen/aicd-dataset 7.50 <br>
